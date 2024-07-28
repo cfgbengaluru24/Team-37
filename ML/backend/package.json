@@ -1,0 +1,14 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "Backend for image recognition and volunteer management.",
+    "main": "app.py",
+    "scripts": {
+      "start": "python app.py",
+      "test": "pytest"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "license": "MIT"
+  }
+  
